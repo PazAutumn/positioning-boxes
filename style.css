@@ -1,0 +1,53 @@
+.box {
+	width: 400px;
+	height: 400px;
+	margin: 20px;
+}
+
+.one {
+	background-color: #FF0000FF;
+}
+
+.two {
+	background-color: #0026FFFF;
+}
+
+.purple {
+	width: 200px;
+	height: 200px;
+	margin: 100px 80px;
+	position: absolute;
+	background-color: #57007FFF;
+	left: 50px;
+	right: 50px;
+}
+
+.yellow {
+	width: 100px;
+	height: 100px;
+	margin: 0px -50px;
+	position: absolute;
+	background-color: #FFD800FF;
+	left: 50px;
+	right: 50px;
+}
+
+.green{
+	width: 200px;
+	height: 200px;
+	margin: 100px 80px;
+	position: absolute;
+	background-color: #267F00FF;
+	left: 50px;
+	right: 50px;
+}
+
+.black {
+	width: 100px;
+	height: 100px;
+	margin: 0px -22px;
+	position: absolute;
+	background-color: #000000FF;
+	left: 50px;
+	right: 50px;
+}
