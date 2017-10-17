@@ -2,6 +2,7 @@
 	width: 400px;
 	height: 400px;
 	margin: 20px;
+	position: relative;
 }
 
 .one {
@@ -15,39 +16,31 @@
 .purple {
 	width: 200px;
 	height: 200px;
-	margin: 100px 80px;
-	position: absolute;
 	background-color: #57007FFF;
-	left: 50px;
-	right: 50px;
+	position: absolute;	
+	left: 100px;
+	top: 100px;
 }
 
 .yellow {
 	width: 100px;
 	height: 100px;
-	margin: 0px -50px;
-	position: absolute;
 	background-color: #FFD800FF;
-	left: 50px;
-	right: 50px;
+	position: absolute;	
 }
 
 .green{
 	width: 200px;
 	height: 200px;
-	margin: 100px 80px;
-	position: absolute;
 	background-color: #267F00FF;
-	left: 50px;
-	right: 50px;
+	position: absolute;	
+	left: 100px;
+	top: 100px;
 }
 
 .black {
 	width: 100px;
 	height: 100px;
-	margin: 0px -22px;
-	position: absolute;
 	background-color: #000000FF;
-	left: 50px;
-	right: 50px;
+	position: absolute;	
 }
